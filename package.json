@@ -1,0 +1,20 @@
+{
+  "name": "excel_pdf",
+  "version": "1.0.0",
+  "description": "projeto do curso guia do programador",
+  "main": "App.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "html-pdf": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "PDF",
+    "EXCEL"
+  ],
+  "author": "Ronald Buzaglo Pessoa",
+  "license": "ISC"
+}
